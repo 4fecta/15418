@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+title:              15-418 Final Project
+email:              edwardx@andrew.cmu.edu
+description:        Parallel Graph Contraction and Minimum Spanning Trees
+author:             Edward Xiao & Cole Christini
+baseurl:            "/home"
+url:                "https://15418.4fecta.ca"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    4fecta
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
